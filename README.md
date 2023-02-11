@@ -1,0 +1,3 @@
+# HomeAssistant-config
+
+Test
